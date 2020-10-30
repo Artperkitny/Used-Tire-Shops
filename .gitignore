@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# pycharm
+.idea/
+
+# Ipython Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Media + Static files
+
+
+# Log files
+*.log
+
+# Other
+*.csv
+
+config.py
+Files/
+Places.ipynb
+.ipynb_checkpoints/
+__pycache__/
